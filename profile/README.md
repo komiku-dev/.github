@@ -32,7 +32,7 @@ The engine that will power the future of our ecosystem is a set of modern, open 
 * **[WebNovel Standard](https://github.com/komiku-dev/wn-standard)**
     A structured file format for webnovels and serialized fiction, designed to be portable, translation-ready, and workflow-aware, giving authors full control over their work.
 
-* **[Webtoon Standard](https://github.com/komiku-dev/open-webtoon-format)**
+* **[Webtoon Standard](https://github.com/komiku-dev/wt-standard)**
     A new file format standard we are developing to make digital comics more dynamic[^2], accessible, and easier to translate.
 
 > [!NOTE]
