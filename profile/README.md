@@ -29,10 +29,10 @@ We are developing an integrated suite of platforms designed to support the entir
 ## Our Open-Source Foundation
 The engine that will power the future of our ecosystem is a set of modern, open standards.
 
-* **[WebNovel Standard]([link-to-webnovel-repo](https://github.com/komiku-dev/open-webnovel-format))**
+* **[WebNovel Standard](https://github.com/komiku-dev/wn-standard)**
     A structured file format for webnovels and serialized fiction, designed to be portable, translation-ready, and workflow-aware, giving authors full control over their work.
 
-* **[Webtoon Standard]([link-to-webtoon-repo](https://github.com/komiku-dev/open-webtoon-format/tree/main))**
+* **[Webtoon Standard](https://github.com/komiku-dev/open-webtoon-format)**
     A new file format standard we are developing to make digital comics more dynamic[^2], accessible, and easier to translate.
 
 > [!NOTE]
