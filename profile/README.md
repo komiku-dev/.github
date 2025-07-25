@@ -4,13 +4,13 @@
 We are guided by a core set of beliefs that shape everything we build. We believe that foundational technology should be open to foster innovation and prevent vendor lock-in. We build our tools to empower creators—the heart of the industry—giving them more control and helping them reach a global audience. Above all, we are committed to making content accessible to everyone by design, ensuring it is a core feature, not an afterthought.
 
 ## Our Vision
-Our vision is a future where digital comics and novels are truly global and dynamic. We see a world where any story can be read by anyone, in any language, on any device—not as a static image, but as a rich, interactive experience. By breaking down the technical and linguistic barriers that exist today, we aim to foster a more interconnected and vibrant community of creators and readers.
+Our vision is a future where digital comics and novels are truly global and dynamic. We see a world where any story can be read by anyone, in any language, on any device—not as a static image or simple text file, but as a rich, interactive experience. By breaking down the technical and linguistic barriers that exist today, we aim to foster a more interconnected and vibrant community of creators and readers.
 
 ## Our Approach
-We take a holistic approach by building a vertically integrated ecosystem. By developing the foundational format ourselves, we ensure that our Creator Studio, Translation Platform, and reader applications are deeply integrated. This allows for a seamless experience from creation to consumption, something not possible when relying on disparate, legacy formats.
+We take a holistic approach by building a vertically integrated ecosystem. By developing the foundational formats ourselves, we ensure that our Creator Studio, Translation Platform, and reader applications are deeply integrated. This allows for a seamless experience from creation to consumption, something not possible when relying on disparate, legacy formats.
 
 ## Our Commitment to Open Source
-Openness is central to our strategy. Our foundational project, the Open Webtoon Format, is and always will be developed as a free and open-source standard under the permissive MIT License. We believe this is the only way to build a truly universal standard that benefits the entire community, and we actively welcome contributors to help us shape its future.
+Openness is central to our strategy. Our foundational projects, including the **WebNovel Standard** and the **Webtoon Standard**, are and always will be developed as free and open standards under the permissive MIT License. We believe this is the only way to build truly universal standards that benefit the entire community, and we actively welcome contributors to help us shape their future.
 
 ---
 
@@ -27,13 +27,16 @@ We are developing an integrated suite of platforms designed to support the entir
     An integrated platform that provides creators with the tools they need to publish and manage their work.
 
 ## Our Open-Source Foundation
-The engine that will power the future of our ecosystem is a modern, open standard.
+The engine that will power the future of our ecosystem is a set of modern, open standards.
 
-* **Open Webtoon Format**
+* **[WebNovel Standard]([link-to-webnovel-repo](https://github.com/komiku-dev/open-webnovel-format))**
+    A structured file format for webnovels and serialized fiction, designed to be portable, translation-ready, and workflow-aware, giving authors full control over their work.
+
+* **[Webtoon Standard]([link-to-webtoon-repo](https://github.com/komiku-dev/open-webtoon-format/tree/main))**
     A new file format standard we are developing to make digital comics more dynamic[^2], accessible, and easier to translate.
 
 > [!NOTE]
-> The Open Webtoon Format is our foundational, community-driven **open-source** initiative. By building this standard in the open, we aim to modernize the entire industry. We welcome all contributors.
+> Our standards are community-driven **open-source** initiatives. By building them in the open, we aim to modernize the entire digital publishing industry. We welcome all contributors.
 
 ## Contact
 
